@@ -13,6 +13,7 @@ I have learned and used multiple languages and frameworks, including:
 - Python (2/3)
   - pytest
 - HTML
+- MIPS ASM
 
 However, I am always looking to learn more new and exciting technologies.  
 I am currently looking for an internship for Summer 2021, and I am open to any opportunity to learn!  
