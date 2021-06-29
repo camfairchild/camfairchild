@@ -1,5 +1,5 @@
 Hi, I'm Cameron Fairchild, a student at the University of Toronto, currently entering my third-year. 
-I am pursuing a Bachelor of Science in Mathematics, Computer Science, and Statistical Sciences. 
+I am pursuing a Bachelor of Science in Computer Science and Statistical Sciences. 
 I am interested in becoming a software developer, but I hope to eventually transition to a role in management.  
 
 I have learned and used multiple languages and frameworks, including:  
