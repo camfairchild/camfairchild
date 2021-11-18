@@ -16,6 +16,6 @@ I have learned and used multiple languages and frameworks, including:
 - MIPS ASM
 
 However, I am always looking to learn more new and exciting technologies.  
-I am currently looking for an internship for Fall/Winter 2021-2022, and I am open to any opportunity to learn!  
+I am currently looking for an internship for Summer 2022, and I am open to any opportunity to learn!  
 
 You can reach me at: cameron@fairchild.dev
