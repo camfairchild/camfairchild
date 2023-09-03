@@ -1,4 +1,4 @@
-I'm a student at the University of Toronto, currently entering my fifth(and final)-year pursuing a Bachelor of Science in Computer Science.  
+I'm a student at the University of Toronto, currently entering my fifth-year pursuing a Bachelor of Science in Computer Science.  
 
 Currently building the [Bittensor](https://github.com/opentensor/bittensor) network with [The Opentensor Foundation](https://opentensor.dev/).
 
